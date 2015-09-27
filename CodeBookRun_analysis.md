@@ -1,7 +1,7 @@
-### Code Book
-## Atribute Information
+##Code Book
+### Atribute Information
 
-The dataset is then divided in two parts and they can be used separately. 
+###The dataset is then divided in two parts and they can be used separately. 
 
 1. Inertial sensor data 
 - Raw triaxial signals from the accelerometer and gyroscope of all the trials with with participants. 
@@ -12,9 +12,8 @@ The dataset is then divided in two parts and they can be used separately.
 - Its associated activity label. 
 - An identifier of the subject who carried out the experiment. 
 
-The dataset includes the following files:
- 'features_info.txt': Shows information about the variables used on the feature vector. 
-
+###The dataset includes the following files:
+*'features_info.txt': Shows information about the variables used on the feature vector. 
 * 'features.txt': List of all features. 
 * 'activity_labels.txt': Links the activity ID with their activity name. 
 *  Training set. 
